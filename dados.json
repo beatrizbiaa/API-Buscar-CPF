@@ -1,0 +1,102 @@
+[
+    {
+        "id": 1,
+        "cpf": 49202674876,
+        "nome": "Beatriz",
+        "sobrenome": "Sousa",
+        "cidade": "São Paulo",
+        "pais": "Brasil",
+        "link": "https://www.flamengo.com.br/",
+        "imagem": "<img src='img/flamengo.jpg' width='200px'>"
+    },
+    {
+        "id": 2,
+        "cpf": 25503813863,
+        "nome": "Eliza",
+        "sobrenome": "Sousa",
+        "cidade": "São Paulo",
+        "pais": "Brasil",
+        "link": "https://br.pinterest.com/pin/422281208600332/",
+        "imagem": "<img src='img/elisa.jpg' width='200px'>"
+    },
+    {
+        "id": 3,
+        "cpf": 11111111111,
+        "nome": "Livia",
+        "sobrenome": "Gomes",
+        "cidade": "São Luiz",
+        "pais": "Alemanha",
+        "link": "https://br.pinterest.com/pin/802696333627324523/",
+        "imagem": "<img src='img/livia.jpg' width='200px'>"
+    },
+    {
+        "id": 4,
+        "cpf": 22222222222,
+        "nome": "Alana",
+        "sobrenome": "Souza",
+        "cidade": "Suzano ",
+        "pais": "Brasil",
+        "link": "https://br.pinterest.com/pin/552816923030084961/",
+        "imagem": "<img src='img/alana.jpg' width='200px'>"
+    },
+    {
+        "id": 5,
+        "cpf": 33333333333,
+        "nome": "Maria Clara",
+        "sobrenome": "Gomes",
+        "cidade": "Fortaleza",
+        "pais": "França",
+        "link": "https://br.pinterest.com/pin/211174977194177/",
+        "imagem": "<img src='img/clara.jpg' width='200px'>"
+    },
+    {
+        "id": 6,
+        "cpf": 44444444444,
+        "nome": "Helena",
+        "sobrenome": "Santana",
+        "cidade": "Ceará",
+        "pais": "Espanha",
+        "link": "https://br.pinterest.com/pin/914862421010008/",
+        "imagem": "<img src='img/helena.jpg' width='200px'>"
+    },
+    {
+        "id": 7,
+        "cpf": 5555555555,
+        "nome": "Alice",
+        "sobrenome": "Gomes",
+        "cidade": "São Miguel",
+        "pais": "Argentina",
+        "link": "https://br.pinterest.com/pin/802696333627312412/",
+        "imagem": "<img src='img/alice.jpg' width='200px'>"
+    },
+    {
+        "id": 8,
+        "cpf": 66666666666,
+        "nome": "Manuela",
+        "sobrenome": "Souza",
+        "cidade": "Paraíba",
+        "pais": "Letonia",
+        "link": "https://br.pinterest.com/pin/140806233315580/",
+        "imagem": "<img src='img/manu.jpg' width='200px'>"
+    },
+    {
+        "id": 9,
+        "cpf": 77777777777,
+        "nome": "Cecília",
+        "sobrenome": "Gomes",
+        "cidade": "Manaus",
+        "pais": "Portugal",
+        "link": "https://www.cinemark.com.br/filme/lilo-e-stitch-2025",
+        "imagem": "<img src='img/cecilia.jpg' width='200px'>"
+    },
+    {
+        "id": 10,
+        "cpf": 77777777777,
+        "nome": "Selena",
+        "sobrenome": "Souza",
+        "cidade": "Paraíba",
+        "pais": "Letonia",
+        "link": "https://br.pinterest.com/pin/145100419238624697/",
+        "imagem": "<img src='img/selena.jpg' width='200px'>"
+    }
+]
